@@ -46,7 +46,4 @@ I also thrive in the world of PostgreSQL, making sure data flows like it should.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
 </p>
 
-
-
-
-Dive into my projects and see what I've been creating! 🚀
+<h2>Dive into my projects and see what I've been creating! 🚀</h2>
