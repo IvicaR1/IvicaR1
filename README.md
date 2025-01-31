@@ -1,5 +1,5 @@
 <h1 align="center">
-  Socials!💬
+  Hey, welcome to my corner of the web! 👾
 </h1>
 
 <p align="center">
@@ -14,22 +14,31 @@
 </a>
 </p>
 
-## Hey, welcome to my corner of the web! 👾
-
+<p>
 I'm a programmer with a deep passion for building things that work smoothly behind the scenes. 
 Currently studying at the University of Computer Science and Engineering in Skopje, I’m on my way to becoming a backend developer.
 I’ve got a knack for crafting slick frontends with React and making data flow seamlessly with PostgreSQL.
 I also thrive in the world of PostgreSQL, making sure data flows like it should. 
+</p>
 
-## My tools
+<h1>Tools I have used:</h1>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://ra1nbow.xyz?ref=github)
-[![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://ra1nbow.xyz?ref=github)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
+
+
 
 
 
