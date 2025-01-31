@@ -21,7 +21,7 @@ I’ve got a knack for crafting slick frontends with React and making data flow 
 I also thrive in the world of PostgreSQL, making sure data flows like it should. 
 </p>
 
-<h1>Tools I have used:</h1>
+<h3>Tools I have used:</h3>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
