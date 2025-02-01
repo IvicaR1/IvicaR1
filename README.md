@@ -43,7 +43,7 @@ I also thrive in the world of Java and Spring, making sure data flows like it sh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
-<h2 align="center">Dive into my projects and see what I've been creating!</h2>
+<h2>Dive into my projects and see what I've been creating!</h2>
 
 <p align="center"> 
   Visitor count<br><br>
