@@ -46,7 +46,7 @@ I also thrive in the world of Java and Spring, making sure data flows like it sh
 <h2 align="center">Dive into my projects and see what I've been creating! 🚀</h2>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <a href="https://ra1nbow.xyz?ref=github">
     <img src="https://profile-counter.glitch.me/IvicaR1/count.svg" />
   </a>
