@@ -25,7 +25,7 @@ I'm a Fullstack Engineer at Neocom and Computer Science and Engineering graduate
 Passionate about building modern applications with: <br>
 ☕ Java & Spring - Backend development with Spring Boot <br>
 🐍 Python & FastAPI - Data processing, AI & ML services integration, FastAPI <br>
-💻 GO – Backend and Microservice development <br>
+💻 GO - Backend and Microservice development <br>
 🤖 AI & MCP & Langchain - Exploring Model Context Protocol and AI-powered applications <br>
 ⚛️ React & Angular - Creating responsive web interfaces <br>
 </p>
