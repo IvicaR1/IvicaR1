@@ -31,7 +31,7 @@ Passionate about building modern applications with: <br>
 </p>
 <br>
 <p>
-Personal page: https://rodikj.vercel.app <br>
+Personal page: https://rodikj.com <br>
 Latest project: https://creditgo.vercel.app
 </p>
 
